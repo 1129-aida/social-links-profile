@@ -89,3 +89,8 @@ a {
     cursor: pointer;
     color: var(--Grey-800);
 }
+
+.link p a:focus-visible {
+    background-color: var(--Green);
+    color: var(--Grey-800);
+}
